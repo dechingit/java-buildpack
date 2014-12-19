@@ -41,3 +41,13 @@ frameworks:
   - "JavaBuildpack::Framework::PostgresqlJDBC"
   - "JavaBuildpack::Framework::SpringAutoReconfiguration"
   - "JavaBuildpack::Framework::SpringInsight"
+  - "JavaBuildpack::Framework::AppDynamicsAgent"
+  - "JavaBuildpack::Framework::JavaOpts"
+  - "JavaBuildpack::Framework::MariaDbJDBC"
+  - "JavaBuildpack::Framework::NewRelicAgent"
+  - "JavaBuildpack::Framework::PlayFrameworkAutoReconfiguration"
+  - "JavaBuildpack::Framework::PlayFrameworkJPAPlugin"
+  - "JavaBuildpack::Framework::PostgresqlJDBC"
+  - "JavaBuildpack::Framework::SpringAutoReconfiguration"
+  - "JavaBuildpack::Framework::SpringInsight"
+  - "JavaBuildpack::Framework::StagingTimestamp" #Here's the bit you need to add!
